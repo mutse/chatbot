@@ -84,12 +84,12 @@ class AboutScreen extends StatelessWidget {
             ListTile(
               leading: const Icon(Icons.code),
               title: const Text('Source Code'),
-              onTap: () => _launchUrl('https://github.com/yourusername/chatbot'),
+              onTap: () => _launchUrl('https://github.com/mutse/chatbot'),
             ),
             ListTile(
               leading: const Icon(Icons.bug_report),
               title: const Text('Report Issues'),
-              onTap: () => _launchUrl('https://github.com/yourusername/chatbot/issues'),
+              onTap: () => _launchUrl('https://github.com/mutse/chatbot/issues'),
             ),
           ],
         ),

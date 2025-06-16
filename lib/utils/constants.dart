@@ -4,7 +4,7 @@ class AppConstants {
   
   // API Constants
   static const String defaultApiUrl = 'https://api.openai.com/v1';
-  static const String defaultModel = 'gpt-3.5-turbo';
+  static const String defaultModel = 'gpt-4o';
   
   // Storage Keys
   static const String settingsKey = 'settings';
